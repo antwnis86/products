@@ -1,0 +1,2554 @@
+﻿{
+  "products": [
+    {
+      "id": "100000",
+      "productName": "AMSTEL Φιάλη Πλ Κιβ 20x50cl GR",
+      "barcode2": "1234555",
+      "barcode3": "323",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 10,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100001",
+      "productName": "AMSTEL Φιάλη Πλ Κιβ 24x33cl GR",
+      "barcode2": "εςφ2332",
+      "barcode3": "33223",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 65,
+      "rowCapacity": 10,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100007",
+      "productName": "AMSTEL Κουτί Shrink 4(6x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100009",
+      "productName": "AMSTEL Κουτί Shrink 6(4x50cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100020",
+      "productName": "AMSTEL Βαρέλι 20L David GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100078",
+      "productName": "AMSTEL Κουτί Shrink 4(6x33cl) 5+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100085",
+      "productName": "AMSTEL Κουτί Shrink 6(4x50cl) 3+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100171",
+      "productName": "AMSTEL Free Lemon Κουτί 6(4x33cl)SLKGR24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100172",
+      "productName": "AMSTEL Free Lem Κουτί 6(4x33cl)SLK3+1 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100173",
+      "productName": "AMSTEL Free Φιάλη Πλ Κιβ 20x50cl GR 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100174",
+      "productName": "AMSTEL Free Φιάλη Πλ Κιβ 24x33cl GR 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100177",
+      "productName": "AMSTEL Free Κουτί 6(4x33cl) SLK 3+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100189",
+      "productName": "AMSTEL Free Κουτί 4(6x33cl) SLK 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100190",
+      "productName": "AMSTEL Can Shrink 4(6x50cl) 5+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100206",
+      "productName": "HEINEKEN Βαρέλι 30L GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 8,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100221",
+      "productName": "HEINEKEN Βαρέλι 20L David GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100297",
+      "productName": "HEINEKEN PET Βαρέλι 20L Brewlock GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 49,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100348",
+      "productName": "HEINEKEN PET Βαρέλι 8L Blade 21 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100355",
+      "productName": "HEINEKEN Φιάλη Πλ.Κιβ 20x50cl 19+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100356",
+      "productName": "HEINEKEN NRB Κιβ 6(4x33cl)Ba PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100357",
+      "productName": "HEINEKEN Φιάλη Πλ Κιβ 20x50cl GR CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100358",
+      "productName": "HEINEKEN Φιάλη Πλ Κιβ 24x33cl GR CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100359",
+      "productName": "HEINEKEN Φιάλη OW 24x33cl GR CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100360",
+      "productName": "HEINEKEN Κουτί Shrink 6(4x50cl) GR CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100361",
+      "productName": "HEINEKEN Κουτί Shr 6(4x50cl) 3+1 GR CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100362",
+      "productName": "HEINEKEN κουτί Shr 4(6x33cl) STD GR26CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100363",
+      "productName": "HEINEKEN Kτί Shr4(6x33cl)STD5+1 GR25CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100364",
+      "productName": "HEINEKEN Κτί Shr4(6x33cl)STD 4+2 GR26CON",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100400",
+      "productName": "FISCHER Φιάλη Πλασ Κιβ 20x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100401",
+      "productName": "FISCHER Φιάλη (Πλ Κιβ) 24x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100406",
+      "productName": "FISCHER Βαρέλι 30L GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 8,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100420",
+      "productName": "FISCHER Βαρέλι 20L David GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100433",
+      "productName": "FISCHER PET Βαρέλι 20L Brewlock GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 49,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100438",
+      "productName": "FISCHER Κουτί Shrink 6(4x50cl) GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100439",
+      "productName": "FISCHER Κουτί Shrink 6(4x50cl) 3+1 GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100449",
+      "productName": "FISCHER Κουτί Shrink 6(4x33cl)STD 3+1 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100450",
+      "productName": "FISCHER Κουτί Shrink 4(6x33cl) STD GR25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100451",
+      "productName": "FISCHER Κτί Shrink 4(6x33cl)STD 4+2 GR25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "FISCHER",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100540",
+      "productName": "AMSTEL Radler Λεμ RB Πλ Κιβ 20x50cl GR24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100541",
+      "productName": "AMSTEL Radler Λεμ RB Πλ Κιβ 24x33cl GR24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100542",
+      "productName": "AMSTEL Radler Λεμ Κουτί 6(4x33cl) SLK 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100543",
+      "productName": "AMSTEL RadlerΛεμ Κουτί6(4x33cl)SLK3+1GR24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100547",
+      "productName": "AMSTEL Κουτί Shrink 4(6x33cl) GR 26",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100600",
+      "productName": "ΑΛΦΑ Φιάλη Πλ Κιβ 20x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100601",
+      "productName": "ΑΛΦΑ Φιάλη Επιστ (Πλασ.Κιβώτ) 24x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100604",
+      "productName": "ΑΛΦΑ Κουτί Tray 24x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 117,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100606",
+      "productName": "ΑΛΦΑ Βαρέλι 30L GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 8,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100611",
+      "productName": "ΑΛΦΑ Βαρέλι 20L David GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100614",
+      "productName": "ΑΛΦΑ Κουτί Shrink 4(6x33cl) 5+1 GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "6ΠΑΚ",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100623",
+      "productName": "ΑΛΦΑ Κουτί Shrink 3(8x33cl) 6+2 GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100626",
+      "productName": "ΑΛΦΑ Κουτί Shrink 6(4x50cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100628",
+      "productName": "ΑΛΦΑ Κουτί 6(4x50cl) 3+1 GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100635",
+      "productName": "ALFA Can Shrink 3(8x33cl) GR/CY 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100636",
+      "productName": "ΑΛΦΑ Κουτί Shrink 2(12x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100637",
+      "productName": "ΑΛΦΑ Φιάλη Επιστ (Πλ.Κιβ) 24x33cl GR23+1",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100638",
+      "productName": "ΑΛΦΑ NRB 24x33cl ST PF GR 23+1",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100639",
+      "productName": "ΑΛΦΑ Κουτί Shrink 4(6x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100662",
+      "productName": "ΑΛΦΑ Κουτί Tray 24x33cl 15+9 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100664",
+      "productName": "ΑΛΦΑ Βαρέλι Case 20L Brewlock GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100677",
+      "productName": "ALFA NRB Case 12x25cl Retro GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 192,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100692",
+      "productName": "ALFA Βαρέλι PET BL Blade 21 GR/ES",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100696",
+      "productName": "ΑΛΦΑ NRB 24x33cl ST PF GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100697",
+      "productName": "ΑΛΦΑ NRB Κβ 4(6x33cl)Ba ST PF GR/CY",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100711",
+      "productName": "ΑΛΦΑ Strong Κουτί Shrink 6(4x50cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100738",
+      "productName": "ΑΛΦΑ Sea Salt Κουτί Shrink 4(6x33cl) 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100745",
+      "productName": "AMSTEL Φιάλη NRB Κβ 4(6x33cl)Ba ST PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100751",
+      "productName": "AMSTEL PET Βαρέλι 20L Brewlock GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 49,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100771",
+      "productName": "AMSTEL Κουτί Χαρτοβ 24x33cl 16+8 GR 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100772",
+      "productName": "AMSTEL Φιάλη NRB Κιβ 24x33cl Retro PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100773",
+      "productName": "AMSTEL Φιάλη NRB Κβ 4(6x33cl)Ba Retro PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100777",
+      "productName": "AMSTEL Free Κουτί 4(6x33cl) SLK 4+2 GR25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "AMSTEL",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100888",
+      "productName": "SOL NRB Χαρτοκιβώτιο 24x33cl XLN GR 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "SOL",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "100889",
+      "productName": "SOL NRB Χαρτοκιβώτιο 24x33cl 16+8 XLN 25",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "SOL",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103000",
+      "productName": "MAMOS Φιάλη Πλ Κιβ 20x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103002",
+      "productName": "MAMOS Φιάλη Πλαστ Κιβώτιο 24x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103004",
+      "productName": "MAMOS Κουτί Shrink 6(4x50cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103005",
+      "productName": "MAMOS Βαρέλι David 20L GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103007",
+      "productName": "MAMOS Κουτί Shrink 4(6x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103011",
+      "productName": "MAMOS Κουτί Tray 4(6x33cl) 5+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103014",
+      "productName": "MAMOS NRB Κιβ. 24x33cl Retro PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103015",
+      "productName": "MAMOS NRB Κβ 4(6x33cl)Ba Retro PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103016",
+      "productName": "MAMOS NRB Κιβ. 24x33cl ST PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103017",
+      "productName": "MAMOS NRB Κιβ 4(6x33cl)Ba ST PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103027",
+      "productName": "MAMOS Κουτί Shrink 6(4x50cl) 3+1 GR 24",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103033",
+      "productName": "MAMOS Φιάλη Πλ.Κιβ 20x50cl 19+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103035",
+      "productName": "MAMOS Αφιλτρ NRB Κιβ 24x33cl ST PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "103036",
+      "productName": "MAMOS Αφιλτρ NRB Κιβ 6(4x33cl)Ba ST PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "MAMOS",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104032",
+      "productName": "STRONGBOW Gold NRB Χαρ/τιο 12x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "STRONGBOW",
+      "subCategory": "",
+
+      "palletCapacity": 168,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104033",
+      "productName": "STRONGBOW Red Ber NRB Case 12x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "STRONGBOW",
+      "subCategory": "",
+
+      "palletCapacity": 168,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104034",
+      "productName": "ΜΗΛΟΚΛΕΦΤΗΣ Μήλο NRB Χαρτ 24x33cl",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104036",
+      "productName": "ΜΗΛΟΚΛΕΦΤΗΣ Tropical NRB Xapt 12x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 168,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104038",
+      "productName": "ΜΗΛΟΚΛΕΦΤΗΣ Βαρέλι J25 20L David GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104039",
+      "productName": "ΜΗΛΟΚΛΕΦΤΗΣ Μήλο NRB Χαρτ 24x33cl -10%",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104043",
+      "productName": "MILOKLEFTIS Velvet Blush NRB 12x33cl",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 168,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "104044",
+      "productName": "MILOKLEFTIS Pink Splash NRB 12x33cl",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΜΗΛΟΚΛΕΦΤΗΣ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 168,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105005",
+      "productName": "TSIKI Soda Water Can Shrink 4(6x33cl)",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105006",
+      "productName": "TSIKI Indian Tonic Can Shrink 4(6x33cl)",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105007",
+      "productName": "TSIKI Grapefrt Soda Can Shrink 4(6x33cl)",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105008",
+      "productName": "TSIKI Lemon Soda Can Shrink 4(6x33cl)",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105009",
+      "productName": "TSIKI Peach Soda Can Shrink 4(6x33cl)",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "SLK",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105015",
+      "productName": "TSIKI Soda Water NRB Case 24x25cl Ale PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 96,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105016",
+      "productName": "TSIKI Indian Tonic NRB Cs 24x25cl Ale PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 96,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105017",
+      "productName": "TSIKI Grapefrt Soda NRB Cs 24x25cl AlePF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 96,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105018",
+      "productName": "TSIKI Lemon Soda NRB Case 24x25cl Ale PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 96,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "105019",
+      "productName": "TSIKI Peach Soda NRB Case 24x25cl Ale PF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "TSIKI",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 96,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106000",
+      "productName": "ΑΛΦΑ Χωρίς Αλκ Φιάλη Πλ Κιβ 20x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106008",
+      "productName": "ΑΛΦΑ Χωρίς Αλκοόλ Κουτί 4(6x33cl) 5+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106011",
+      "productName": "ΑΛΦΑ Χωρίς Αλκοόλ Κουτί 4(6x33cl) 4+2 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106014",
+      "productName": "ALFA Χωρίς Λεμόνι Κουτί 6(4x33cl) 3+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106017",
+      "productName": "ALFA Charis Κουτί Tray 24x33cl GR 2025",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106019",
+      "productName": "ΑΛΦΑ Χωρίς NRB Κιβ 24x33cl ST PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "106020",
+      "productName": "ΑΛΦΑ Χωρίς NRB Κιβ 6(4x33cl)Ba ST PF GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 72,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107202",
+      "productName": "ΝΥΜΦΗ Φιάλη Πλ Κιβ 20x50cl GR 1909",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 60,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107203",
+      "productName": "ΝΥΜΦΗ Πλ Κιβ 24x33cl GR 1909",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "ΠΛΑΣΤΙΚΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107204",
+      "productName": "ΝΥΜΦΗ Κουτί Shrink 6(4x50cl) GR 1909",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107207",
+      "productName": "ΝΥΜΦΗ Βαρέλι 20L David GR 1909",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107208",
+      "productName": "NIMFI Κουτί Shrink 4(6x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107211",
+      "productName": "ΝΥΜΦΗ Κουτί Shrink 6(4x50cl) 3+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "50",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "107212",
+      "productName": "NIMFI Κουτί Shrink 4(6x33cl) 5+1 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΝΥΜΦΗ",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "109236",
+      "productName": "ΑΛΦΑ NRB 24x33cl ST PF US",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "109237",
+      "productName": "ΑΛΦΑ NRB Κβ 4(6x33cl)Ba ST PF US",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΑΛΦΑ",
+      "category": "",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "109238",
+      "productName": "FURSTENBRAU Κουτί Shr 6(4x50cl) GR/CY 26",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "FURSTENBRAU",
+      "subCategory": "",
+
+      "palletCapacity": 90,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "110024",
+      "productName": "ERDINGER Βαρέλι 30L ΖΥΘΟΣ GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ERDINGER",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 6,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "110048",
+      "productName": "Διοξείδιο Άνθρακα 6Kg Κύλινδροι",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΟΞΥΓΟΝΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "110049",
+      "productName": "ΦΙΑΛΕΣ ΑΖΩΤΟΥ/ΑΝΘΡ 10L",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΑΖΩΤΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "113267",
+      "productName": "MURPHYS Irish Stout Κουτί 24x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "MURPHYS",
+      "subCategory": "",
+
+      "palletCapacity": 80,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "114497",
+      "productName": "ΦΙΑΛΕΣ CO2 2kg DAVID XD GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΟΞΥΓΟΝΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "116102",
+      "productName": "ERDINGER Weiss Φιάλη Case 12x50cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ERDINGER",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 75,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "116187",
+      "productName": "Mc FARLAND Φιάλη Case 24x33cl P/IT GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "MCFARLAND",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "116466",
+      "productName": "ERDINGER Weiss Φιάλη Case 12x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ERDINGER",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 95,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "116812",
+      "productName": "MORETTI Βαρέλι 30L GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "MORETTI",
+      "subCategory": "",
+
+      "palletCapacity": 6,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117151",
+      "productName": "ERDINGER Βαρέλι 20L Ζύθος GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ERDINGER",
+      "category": "ΒΑΡΕΛΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 15,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117370",
+      "productName": "Σύστημα Blade 8L",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "Blade",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117534",
+      "productName": "BLADE HEINEKEN Starter Kit",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "Blade",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117576",
+      "productName": "BLADE ALFA Starter Kit 1",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "Blade",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117604",
+      "productName": "HEINEKEN 0.0 Φιάλη OW 24x33cl GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 54,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "117672",
+      "productName": "BLADE STRONGBOW Apple Gold Starter Kit",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "Blade",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118340",
+      "productName": "HEINEKEN 0.0 Κουτί Clus 6(4x33cl) GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "ΧΑΡΤ/ΣΙΕΣ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118382",
+      "productName": "LAGUNITAS Ipa Βαρέλι 20L Alken GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "LAGUNITAS",
+      "subCategory": "",
+
+      "palletCapacity": 20,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118496",
+      "productName": "MORETTI Φιάλη OW Case 24x33cl GR 24 NRB",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "MORETTI",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118532",
+      "productName": "LAGUNITAS IPA NRB 24x33cl FR/GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΛΟΙΠΑ",
+      "category": "LAGUNITAS",
+      "subCategory": "",
+
+      "palletCapacity": 84,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118703",
+      "productName": "HEINEKEN 0.0 Κουτί 6(4x33cl) OW2 GR",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "HEINEKEN",
+      "category": "33",
+      "subCategory": "",
+
+      "palletCapacity": 130,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "118717",
+      "productName": "HEINEKEN 0.0 Keg PET Case 8L BladeOW1 DF",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "Blade",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200014",
+      "productName": "Κιβώτια 20x500ml Μικτά",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΚΙΒΩΤΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200022",
+      "productName": "Κιβώτιο+Φιάλ Own 20x500ml Μικτά",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΚΙΒΩΤΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200029",
+      "productName": "Κιβώτια 24x330ml Μικτά",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΚΙΒΩΤΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200037",
+      "productName": "Κιβώτιο+Φιάλ Own 24x330ml Μικτά",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΚΙΒΩΤΙΑ",
+      "subCategory": "",
+
+      "palletCapacity": 70,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200046",
+      "productName": "Πλαίσ Σιδ 1430x1150x1050mm Φιαλ CO2 6Kg",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΠΛΑΙΣΙΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200157",
+      "productName": "Πλαίσιο Σιδερ 880x650x770mm Φιαλ CO2 2kg",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΠΛΑΙΣΙΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    },
+    {
+      "id": "200348",
+      "productName": "Πλαίσ Σιδ 1060x950x510mm Φιαλ CO2 6Kg",
+      "barcode2": "",
+      "barcode3": "",
+
+      "brand": "ΣΥΣΚΕΥΑΣΙΕΣ",
+      "category": "ΠΛΑΙΣΙΟ",
+      "subCategory": "",
+
+      "palletCapacity": 0,
+      "rowCapacity": 0,
+
+      "palletsNum": 0,
+      "rowNum": 0,
+      "retailNum": 0
+    }
+  ]
+}
